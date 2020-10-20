@@ -1,0 +1,18 @@
+body {
+    background-color: red;
+}
+
+
+.jumbotron{
+    background-color: aqua;
+    padding: 10%;
+    width:70%;
+    color: blueviolet;
+}
+
+.jumbotron h1{
+    position: absolute;
+    padding: 20px;
+    color: chartreuse;
+    background-color: brown;
+}
